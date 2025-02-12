@@ -1,7 +1,7 @@
 # База данных результатов лазерного воздействия
 ## Струткура базы данных
 
-![logo](https://github.com/badmax333/ILT_date_base/blob/main/Снимок%20экрана%202025-02-12%20в%2017.30.49.png)
+<img src="https://github.com/badmax333/ILT_date_base/blob/main/Снимок%20экрана%202025-02-12%20в%2017.30.49.png" alt="Описание изображения" width="500" />
 
 
 
